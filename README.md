@@ -1,0 +1,2 @@
+# staticwebsitecode
+staticwebsitecode
